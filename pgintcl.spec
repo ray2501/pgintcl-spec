@@ -10,6 +10,7 @@ License:       BSD
 Group:         Development/Libraries/Tcl
 Source:        %{name}-%{version}.tgz
 URL:           https://sourceforge.net/projects/pgintcl/
+BuildArch:     noarch
 BuildRequires: tcl >= 8.5
 Requires:      tcl >= 8.5
 BuildRoot:     %{buildroot}
