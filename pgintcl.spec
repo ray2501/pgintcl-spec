@@ -6,7 +6,7 @@ Name:          pgintcl
 Summary:       Pure-Tcl Interface to PostgreSQL
 Version:       3.5.1
 Release:       0
-License:       BSD
+License:       BSD-3-Clause
 Group:         Development/Libraries/Tcl
 Source:        %{name}-%{version}.tgz
 URL:           https://sourceforge.net/projects/pgintcl/
